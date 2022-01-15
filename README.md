@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://stefanseliger.github.io/Work_Responsibility_Project_Bootcamp/)
+- Solution URL: [https://stefanseliger.github.io/Work_Responsibility_Project_Bootcamp/]
 
 ## My process
 
