@@ -1,8 +1,49 @@
-# Work_Responsibility_Project_Bootcamp
-
-Supercode Bootcamp Projekt 
-
-Aufgabenstellung: Unrealistische Erwartungen. Viel Druck. Laufen mit maximaler Kapazität. Was ist, wenn es eine Alternative mit den gleichen Ergebnissen gibt, die nur einen Klick entfernt ist? Persönliche Erfahrungen mit diesen Themen haben mein Interesse geweckt. Ich begann, Links und Ressourcen aus zuverlässigen Quellen zu sammeln und die Möglichkeiten zu erkunden, die sich aus einem ausgewogenen, achtsamen und verantwortungsbewussten Umgang mit der Arbeit ergeben.
+# Bootcamp Exercise - Work Responsibility
 
 
-view: https://stefanseliger.github.io/Work_Responsibility_Project_Bootcamp/
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- Build a simple website about work Responsibility.
+
+### Screenshot
+
+![](./Screenshot.png)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://stefanseliger.github.io/Work_Responsibility_Project_Bootcamp/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS
+
+
+
+### What I learned
+
+One of my very first projects. Positioning the images was the most tricky part back then.   
+
+
+### Continued development
+
+It´s not yet optimized for other display formats. 
+
